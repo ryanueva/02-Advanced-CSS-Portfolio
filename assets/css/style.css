@@ -34,6 +34,8 @@
   
   header nav {
       margin: 7px 0;
+      display: flex;
+    flex-direction: row;
     }
   
   header nav ul {
@@ -61,7 +63,7 @@
   
 /*apply style to hero image*/
 .hero{
-    height: 400px;
+    height: 50px;
     background-image: url("../images/ryan-peak.jpg");
     background-size: cover;
     background-position: center;
