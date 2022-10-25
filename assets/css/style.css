@@ -62,7 +62,7 @@
 /*apply style to hero image*/
 .hero{
     height: 50px;
-    background-image: url("../images/ryan-peak.jpg");
+    background-image: url("../images/portfolio-banner.jpg");
     background-size: cover;
     background-position: center;
     display: flex;
